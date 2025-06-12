@@ -28,7 +28,7 @@ h1 {
     height: 200px;
     object-fit: cover;
     border-radius: 8px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.10);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 1);
     border: 2px solid #c98b3b;
 }
 
@@ -47,7 +47,7 @@ h1 {
 
 .info-label {
     font-size: 15px;
-    color: #3d2a0a;
+    color: rgba(0, 0, 0, 1);
     font-family: 'Georgia', serif;
 }
 
@@ -64,13 +64,13 @@ h1 {
 }
 
 .badge-dificuldade {
-    background: #a13c3c;
+    background: rgba(152, 40, 41, 1);
 }
 .badge-tempo {
-    background: #a13c3c;
+    background: rgba(152, 40, 41, 1);
 }
 .badge-categoria {
-    background: #a13c3c;
+    background: rgba(152, 40, 41, 1);
 }
 
 .section-title {
@@ -80,7 +80,7 @@ h1 {
 }
 
 .ingredientes-box {
-    background: #46616b;
+    background: rgba(50, 88, 98, 1);
     color: #fff;
     border-radius: 6px;
     padding: 22px 28px 18px 28px;
@@ -99,7 +99,7 @@ h1 {
 }
 
 .preparo-box {
-    background: #46616b;
+    background: rgba(50, 88, 98, 1);
     color: #fff;
     border-radius: 6px;
     padding: 22px 28px 18px 28px;
